@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Jerry Wang : https://github.com/JerrrryWang
 
 ## Stakeholders
 
@@ -20,7 +21,18 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+See instructions. 
+Diagram1 : Create Account
+![alt text](UML_CreateAccount-1.jpg)
+
+Diagram2 : Job Seekers-Upload Resume
+![alt text](UML_UploadResume-1.jpg)
+
+Diagram3 : Recruiter-Create Jobs
+![alt text](UML_CreateJobs-1.jpg)
+
+Diagram4 : Recruiter-Brose & Swipe
+![alt text](UML_BroseSwipe-1.jpg)
 
 ## Clickable Prototype
 
