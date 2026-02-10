@@ -1,6 +1,6 @@
 # Specification Phase Exercise
 
-A dating app for corporate recruiting. Our app is called “OKSalary”, similar to the dating app “OKCupid”. 
+A job matching app for corporate recruiting. Our app is called “OKSalary”, similar to the dating app “OKCupid”. 
 
 Key Stakeholders: 
 1. Hiring Managers in a company who post roles. 
@@ -65,7 +65,7 @@ Frustrations:
 
 ## Product Vision Statement
 
-A swipe-based job matching app that helps job seekers quickly discover and connect with relevant opportunities while enabling recruiters to efficiently identify, engage, and hire candidates through fast, transparent, and mutually interested matches.
+A job matching app that helps job seekers quickly discover and connect with relevant opportunities while enabling recruiters to efficiently identify, engage, and hire candidates through fast, transparent, and mutually interested matches.
 
 ## User Requirements
 
