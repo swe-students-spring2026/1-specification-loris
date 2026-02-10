@@ -8,19 +8,18 @@ Jerry Wang : https://github.com/JerrrryWang
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+
 
 ## Activity Diagrams
 
-See instructions. 
 Diagram1 : Create Account
 ![alt text](UML_CreateAccount-1.jpg)
 
