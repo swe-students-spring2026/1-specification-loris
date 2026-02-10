@@ -102,7 +102,17 @@ A swipe-based job matching app that helps job seekers quickly discover and conne
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+Diagram1 : Create Account
+![alt text](UML_CreateAccount-1.jpg)
+
+Diagram2 : Job Seekers-Upload Resume
+![alt text](UML_UploadResume-1.jpg)
+
+Diagram3 : Recruiter-Create Jobs
+![alt text](UML_CreateJobs-1.jpg)
+
+Diagram4 : Recruiter-Brose & Swipe
+![alt text](UML_BroseSwipe-1.jpg)
 
 ## Clickable Prototype
 
