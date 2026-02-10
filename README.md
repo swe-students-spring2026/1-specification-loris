@@ -14,10 +14,11 @@ When both the hiring manager who is within the specific role profile swipes righ
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
 Peter Jinyuan Ma: https://github.com/pjm9792-ui
+
 Zelu Zhang: https://github.com/zzl0720-2025
+
+Jerry Wang : https://github.com/JerrrryWang
 
 ## Stakeholders
 
@@ -105,4 +106,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/TftWFGNk0fQCLWdEF986z2/Loris-OKsalary?node-id=1-2&t=jzjtq1QAYcX9Q3zj-1
